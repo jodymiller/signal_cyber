@@ -1,5 +1,6 @@
 # #Certifications and Training
 
+<b>See [resume](https://github.com/jodymiller/Cybersecurity/blob/main/certifications-and-training/Resume.pdf) for full details. Highlights below.</b>
 
 ## Education
 * Coursework (60 credits), International Affairs, George Washington University, 2002-2005
