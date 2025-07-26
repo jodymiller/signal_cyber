@@ -5,8 +5,9 @@
 ## Education
 * Coursework (60 credits), International Affairs, George Washington University, 2002-2005
 * Bachelor of Science, Business Administration, Liberty University, May 2016
-* Master of Information Technology, Virginia Polytechnic Institute & State University, May 2025
 * Masters Certificate in Software Development, Virginia Polytechnic Institute & State University, 2023
+* Master of Information Technology, Virginia Polytechnic Institute & State University, May 2025
+
 
 ## Certifications
 * CompTIA Security+
