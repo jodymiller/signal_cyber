@@ -1,11 +1,23 @@
 # Cybersecurity and Personal Portfolio
 
-Welcome! This GitHub repository is a showcase of my cybersecurity experience through self-study, labs, CTFs, scripting, and research. Additional content on technology, books, and whatever else.
+Welcome! This GitHub repository is a showcase of my cybersecurity experience through self-study, labs, CTFs, scripting, and research. Inclues additional content on technology, books, and whatever else.
 
 ## About Me
 - Master's in Information Technology (May 2025)
 - CompTIA Security+ and Microsoft Azure Fundamentals certified
 - Passionate about offensive security, incident response, and system hardening
+- Love researching information and national security, propaganda and it's use throughout history and as it relates to information security, plus the psychological tactics used to create distortions in truth
+- Hobbiest interest in ham radio and software-defined radio
+
+Why this GitHub?
+I don't want a job. I want real alignment.
+I don't care about titles and having the easy life - I want a mission.
+
+My interest in cybersecurity, ethical hacking, signal intelligence, and the psychology of control is to expose and defend against threats. The threats are not just to networks, but to each of our minds with cyber space as the means to deliver the damage. The future of security research is not only in prevention and tracing of hacking, which are tools underneath a broader umbrella of war and psychological operations, but also how these hacks dismantle cohesion, sever public trust, and divide nations. 
+
+I believe in curiosity above conformity; the first answer is rarely the correct answer; and there are many layers to any given problem. 
+
+My breadth of experience is in process and data analysis across multiple industries, which has led me to see systems, patterns across domains, and patterns across minds. This type of experience is what will drive me forward in cybersecurity beyond the day-to-day to see real threats, complex patterns, and how threats are transforming every day. 
 
 ---
 
