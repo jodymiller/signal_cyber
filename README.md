@@ -12,13 +12,11 @@ Welcome! This GitHub repository is a showcase of my cybersecurity experience thr
 ## Portfolio Highlights
 
 ### Offensive Security
-- [CTF Writeups](./offensive-security/CTF-Writeups): Solutions from TryHackMe, HackTheBox, PicoCTF, etc.
-- [Custom Exploits](./offensive-security/Exploits): Custom scripts and PoCs with detailed analysis
-- [Python Automation](./security-automation/Python-Log-Parser): Tools to parse logs and detect attacks
+- [CTF Writeups](./offensive-security/CTF-Writeups): Solutions from TryHackMe
+- [Python Automation](./security-automation/python): Different tools created and used in testing
 
 ### Lab Environments
 - [Home Lab Setup](./labs-and-scenarios/Home-Lab-Setup): Virtualized SIEM, vulnerable VMs, segmented networks
-- [Incident Scenarios](./labs-and-scenarios/Incident-Response-Scenarios): Simulated attacks with logs and analysis
 
 ### Research & Writing
 - [NIST Cybersecurity Framework for Small Business](https://github.com/jodymiller/Cybersecurity/blob/main/research/cybersec/Ethical%20Considerations%20of%20Neural%20Enhancement%20Technologies%20%20pdf)
