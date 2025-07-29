@@ -11,7 +11,7 @@ Welcome! This GitHub repo is a continuously evolving body of work related to my 
 Why this GitHub?
 I love to learn and I'm looking for alignment, sharing, and learning from others. 
 
-My interest in cybersecurity, ethical hacking, signal intelligence, and the psychology of control is to expose and defend against threats. The threats are not just to networks, but to each of our minds with cyber space as the means to deliver the damage. The future of security research is not only in prevention and tracing of hacking, which are tools underneath a broader umbrella of war and psychological operations, but also how these hacks dismantle cohesion, sever public trust, and divide nations. 
+My interest in cybersecurity, ethical hacking, signal intelligence, and the psychology of control is to expose and defend against threats. The threats are not just to networks, but to each of our minds with cyber space as a vector to deliver the damage. The future of security research is not only in prevention and tracing of hacking, which are tools underneath a broader umbrella of war and psychological operations, but also how these hacks dismantle cohesion, sever public trust, and divide nations. 
 
 I believe in curiosity above conformity; the first answer is rarely the correct answer; and there are many layers to any given problem. 
 
