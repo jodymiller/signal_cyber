@@ -1,13 +1,12 @@
 # Cybersecurity and Personal Portfolio
 
-Welcome! This GitHub repository is a showcase of my cybersecurity experience through self-study, labs, CTFs, scripting, and research. Inclues additional content on technology, books, and whatever else.
+Welcome! This GitHub repo is a continuously evolving body of work related to my interest in cybersecurity, radio/SDR, emerging tech, and ethics among other things.  The contents show experience through self-study, labs, CTFs, scripting, and research. Inclues additional content on technology, books, and whatever else.
 
 ## About Me
 - Master's in Information Technology (May 2025)
 - CompTIA Security+ and Microsoft Azure Fundamentals certified
-- Passionate about offensive security, incident response, and system hardening
 - Love researching information and national security, propaganda and it's use throughout history and as it relates to information security, plus the psychological tactics used to create distortions in truth
-- Hobbiest interest in ham radio and software-defined radio
+- Hobbiest interest (very beginning) in ham radio, software-defined radio, and tools (NESDR, HackRF)
 
 Why this GitHub?
 I love to learn and I'm looking for alignment, sharing, and learning from others. 
