@@ -10,8 +10,7 @@ Welcome! This GitHub repository is a showcase of my cybersecurity experience thr
 - Hobbiest interest in ham radio and software-defined radio
 
 Why this GitHub?
-I don't want a job. I want real alignment.
-I don't care about titles and having the easy life - I want a mission.
+I love to learn and I'm looking for alignment, sharing, and learning from others. 
 
 My interest in cybersecurity, ethical hacking, signal intelligence, and the psychology of control is to expose and defend against threats. The threats are not just to networks, but to each of our minds with cyber space as the means to deliver the damage. The future of security research is not only in prevention and tracing of hacking, which are tools underneath a broader umbrella of war and psychological operations, but also how these hacks dismantle cohesion, sever public trust, and divide nations. 
 
