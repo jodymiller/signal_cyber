@@ -19,14 +19,11 @@ My breadth of experience is in process and data analysis across multiple industr
 
 ---
 
-## Portfolio Highlights
+## Highlights
 
 ### Offensive Security
-- [CTF Writeups](./offensive-security/CTF-Writeups): Solutions from TryHackMe
-- [Python Automation](./security-automation/python): Different tools created and used in testing
-
-### Lab Environments
-- [Home Lab Setup](./labs-and-scenarios/Home-Lab-Setup): Virtualized SIEM, vulnerable VMs, segmented networks
+- [CTF Writeups](./systems:offense/CTF-Writeups)
+- [Python Automation](./systems:automation/python)
 
 ### Research & Writing
 - [NIST Cybersecurity Framework for Small Business](https://github.com/jodymiller/Cybersecurity/blob/main/research/cybersec/Ethical%20Considerations%20of%20Neural%20Enhancement%20Technologies%20%20pdf)
@@ -39,7 +36,7 @@ My breadth of experience is in process and data analysis across multiple industr
 - [Technical Summary of "The technological fix as social cure-all"](https://github.com/jodymiller/Cybersecurity/blob/main/research/emerging_tech/Technical%20Summary%20of%20Sean%20Johnston's%20The%20technological%20fix%20as%20social%20cure-all.pdf)
 ---
 
-## [Education, Certifications, & Labs](./certifications-and-training)
+## [Education, Certifications, & Labs](./resume_certs_training)
 * Resume, Coursework & More
   
 ---
