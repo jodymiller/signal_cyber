@@ -7,5 +7,5 @@ Setup:
 Learnings:
 * Simulation closer to an enterprise environment structure with multiple separate machine configuration
 * Learning Wazuh rules and how they apply
-* Remediation of rule violations to increase compliance scores
+* Remediation of rule violations to increase compliance scores and understand CIS Benchmarks
 * Deeper learning of some aspects of Linux system administration through flagged items
