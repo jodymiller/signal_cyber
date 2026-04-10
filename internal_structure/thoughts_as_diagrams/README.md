@@ -1,1 +1,0 @@
-#thoughts_as_diagrams
