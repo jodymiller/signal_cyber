@@ -1,6 +1,6 @@
 # Cybersecurity and Personal Portfolio
 
-Welcome! This GitHub repo is a continuously evolving body of work related to my interest in cybersecurity, radio/SDR, emerging tech, and ethics among other things.  The contents show experience through self-study, labs, CTFs, scripting, and research. Includes additional content on technology, books, and whatever else.
+Welcome! This GitHub repo is a continuously evolving body of work related to my interest in cybersecurity, radio/SDR, emerging tech, and ethics among other things.  The contents show experience through self-study, labs, CTFs, and more.
 
 ## About Me
 - Master's in Information Technology (May 2025)
