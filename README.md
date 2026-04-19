@@ -11,11 +11,11 @@ Welcome! This GitHub repo is a continuously evolving body of work related to my 
 Why this GitHub?
 I love to learn and I'm looking for alignment, sharing, and learning from others. 
 
-My interest in cybersecurity, ethical hacking, signal intelligence, and the psychology of control is to expose and defend against threats. The threats are not just to networks, but to each of our minds with cyber space as a vector to deliver the damage. The future of security research is not only in prevention and tracing of hacking, which are tools underneath a broader umbrella of war and psychological operations, but also how these hacks dismantle cohesion, sever public trust, and divide nations. 
+My interest in cybersecurity, ethical hacking, signal intelligence, and the human factors behind security. I'm especially interested in how technical vulnerabilities intersect with behavior, influence, and trust - how systems are exploited not just at the network level, but through people.
 
-I believe in curiosity above conformity; the first answer is rarely the correct answer; and there are many layers to any given problem. 
+I approach problems with curiosity above conformity; the first answer is rarely the correct answer and meaningful insights usually sit a few layers deeper. 
 
-My breadth of experience is in process and data analysis across multiple industries, which has led me to see systems, patterns across domains, and patterns across minds. This type of experience is what will drive me forward in cybersecurity beyond the day-to-day to see real threats, complex patterns, and how threats are transforming every day. 
+My background spans process and data analysis across multiple industries, which has shaped how I see systems, patterns, and relationships - both technical and human. I'm applying that perspective to cybersecurity to better understand complex threats and how they evolve over time. 
 
 ---
 
@@ -38,16 +38,4 @@ My breadth of experience is in process and data analysis across multiple industr
 
 ## [Education, Certifications, & Labs](./resume_certs_training)
 * Resume, Coursework & More
-  
----
 
-## Contact
-- [LinkedIn](https://linkedin.com/in/jodyemiller)
-- Email: jody-cybersec@proton.me
-
----
-Even more about me:\
-[internal_structure](./internal_structure)
-- mind mapping exercises
-- book summaries
-- misc thoughts
