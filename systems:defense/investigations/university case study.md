@@ -13,6 +13,7 @@ A university professor received threatening email from a student. The professor 
 Review the packet capture file to determine who sent the email based on the provided list of students from the professor’s class. Must determine who specifically sent the email and identify the TCP flow that includes the hostile message. 
 
 <br>
+
 **Approach**
 
 _Email Header Details_
@@ -25,10 +26,9 @@ _Identification of Source IP TCP stream_
 
 _Traffic filter/isolation_  
 
-- _Applied “ip.addr == 192.168.15.4” filter to packets, and then used the text filter again to look for “email”, “gmail”, and the text string “login” - these stuck out to me as items that could lead to a specific name or username that could lead to the identify of the email sender._
+- Applied “ip.addr == 192.168.15.4” filter to packets, and then used the text filter again to look for “email”, “gmail”, and the text string “login” - these stuck out to me as items that could lead to a specific name or username that could lead to the identify of the email sender._
 
-_User attribution  
-_
+_User attribution_
 
 - “Login” hit on a HTTP response containing XML with yahoo address book details with the username: Amy78Smith. 
 - Comparing this name to the provided student list, Amy Smith is in the professor’s class. 
@@ -53,7 +53,6 @@ _Validation of Device and Timestamps_
 
 <br>
 
-> �����.O\`EU��@8~ѿ\]3��P�����J؀�&�Z  
 > 9t�I7�-�HTTP/1.0 200 OK  
 > Date: Tue, 22 Jul 2008 06:10:23 GMT  
 > P3P: policyref="[http://p3p.yahoo.com/w3c/p3p.xml](http://p3p.yahoo.com/w3c/p3p.xml)", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE GOV"  
@@ -86,6 +85,7 @@ _Validation of Device and Timestamps_
 
 <br>
 <br>
+
 **Findings**
 
 The student first looked up anonymous email services in a search and then proceeded to willselfdestruct\[.\]com to send the email. There was no identifying information in the TCP conversation with this domain; however, the IP address could be narrowed to one device for further review. To identify the student, the packets were reviewed and several identifying packets were marked as containing the Amy789Smith username - one yahoo login TCP conversation and several other yahoo messenger logins and YMSG packets. The MAC address of the device is the same across these packets and shows the student first send the email to her professor at 2:03 and then logged into her personal email at 2:09 on the same device. Based on this activity, the user who sent the threatening email is Amy789Smith matching Amy Smith from the class registration list. 
