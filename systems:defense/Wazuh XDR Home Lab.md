@@ -1,5 +1,8 @@
 **Wazuh on Linux**
-Setup:
+
+What is Wazuh? An open source XDR/SIEM solution that monitors endpoints. 
+
+Home lab setup:
 * Wazuh installed on Ubuntu virtual machine with agents on secondary virtual machine and physical device
 * Docker rootless installation
 
