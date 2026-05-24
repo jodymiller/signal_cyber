@@ -7,6 +7,7 @@ My scripts are experimental, learning territory to better understand the tools a
 
 
 Name: audit_TW_v4.sh  |   bash script
+<br>
 Purpose: Audit OpenSuse Tumbleweed distro for some basic security checks like getcap, recent file changes, and more. It outputs a directory of files and also prints result summary to the terminal. 
 
 
