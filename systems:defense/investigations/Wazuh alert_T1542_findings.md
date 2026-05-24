@@ -116,8 +116,9 @@ app-/home/user/scripts/script.sh@...service
 ```
 
 <br>
+This struck me since this was a script I had been toying with the previous day, but it was logged in here in a way that I had not seen when running list-units. 
 
-This initially looked strange because the script appeared as a “service” and I have never seen this before. Of course, I have to know what it is, so I look that up too. According to modern Linux desktops, applications and scripts launched from the GUI can be tracked as transient `systemd --user` app units. This particular script I had been creating and testing had a background issue and was terminated (”failed unit”), but these artifacts were leftover. I was able to clear these out with: 
+The script appeared as a “service” multiple times and I can't say I didn't initially think that maybe it was something nefarious. Of course, I have to know what it is, so I look that up too. According to modern Linux desktops, applications and scripts launched from the GUI can be tracked as transient `systemd --user` app units. This particular script I had been creating and testing had a background issue and was terminated (”failed unit”), but these artifacts were leftover. I was able to clear these out with: 
 
 ```
 systemctl --user reset-failed
